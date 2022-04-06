@@ -1,0 +1,60 @@
+-------- Diagnostics - 4/6/2022, 8:34:10 AM
+Version: 1.9.7
+Current Configuration:
+{
+    "name": "Win32",
+    "includePath": [
+        "${workspaceFolder}/**"
+    ],
+    "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+    ],
+    "windowsSdkVersion": "10.0.18362.0",
+    "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30037/bin/Hostx64/x64/cl.exe",
+    "intelliSenseMode": "windows-msvc-x64",
+    "compilerArgs": [],
+    "cStandard": "c11",
+    "cppStandard": "c++14",
+    "intelliSenseModeIsExplicit": false,
+    "cStandardIsExplicit": true,
+    "cppStandardIsExplicit": true,
+    "mergeConfigurations": false,
+    "compilerPathIsExplicit": false,
+    "browse": {
+        "path": [
+            "${workspaceFolder}/**"
+        ],
+        "limitSymbolsToIncludedHeaders": true
+    }
+}
+Translation Unit Mappings:
+[ C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp ]:
+    C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp
+Translation Unit Configurations:
+[ C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp ]: not ready
+    Process ID: 15608
+    Memory Usage: 0 MB
+    Compiler Path: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30037/bin/Hostx64/x64/cl.exe
+    Includes:
+        C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2019\COMMUNITY\VC\TOOLS\MSVC\14.29.30037\INCLUDE
+        C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2019\COMMUNITY\VC\TOOLS\MSVC\14.29.30037\ATLMFC\INCLUDE
+        C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.18362.0\UM
+        C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.18362.0\UCRT
+        C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.18362.0\SHARED
+        C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.18362.0\WINRT
+        C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.18362.0\CPPWINRT
+    Defines:
+        _DEBUG
+        UNICODE
+        _UNICODE
+    Standard Version: ms_c++14
+    IntelliSense Mode: windows-msvc-x64
+    Other Flags:
+        --header_only_fallback
+Total Memory Usage: 0 MB
+
+------- Workspace parsing diagnostics -------
+Number of files discovered (not excluded): 4834
+
