@@ -1,0 +1,267 @@
+loggingLevel: Debug
+cpptools/didChangeCppProperties
+Attempting to get defaults from C compiler in "compilerPath" property: 'C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30037/bin/Hostx64/x64/cl.exe'
+Code browsing service initialized
+Attempting to get defaults from C++ compiler in "compilerPath" property: 'C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30037/bin/Hostx64/x64/cl.exe'
+  Folder: C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO/2019/COMMUNITY/VC/TOOLS/MSVC/14.29.30037/ATLMFC/INCLUDE/* will be indexed
+  Folder: C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO/2019/COMMUNITY/VC/TOOLS/MSVC/14.29.30037/INCLUDE/* will be indexed
+  Folder: C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.18362.0/CPPWINRT/ will be indexed
+  Folder: C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.18362.0/SHARED/ will be indexed
+  Folder: C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.18362.0/UCRT/ will be indexed
+  Folder: C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.18362.0/UM/ will be indexed
+  Folder: C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.18362.0/WINRT/ will be indexed
+  Folder: C:/USERS/AKRUCK/DOCUMENTS/CODE/BUG-REPORTS/VSCODE-CPP-BUG-REPORT-1/ will be indexed
+Discovering files...
+textDocument/didOpen: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp
+  Processing folder (non-recursive): C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO/2019/COMMUNITY/VC/TOOLS/MSVC/14.29.30037/ATLMFC/INCLUDE
+Checking for syntax errors: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp
+cpptools/textEditorSelectionChange
+cpptools/activeDocumentChange: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp
+  Processing folder (non-recursive): C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO/2019/COMMUNITY/VC/TOOLS/MSVC/14.29.30037/INCLUDE
+cpptools/getDocumentSymbols: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp (id: 2)
+cpptools/getDocumentSymbols
+cpptools/getCodeActions: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp (id: 3)
+  tag parsing file: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp
+  Processing folder (recursive): C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.18362.0/CPPWINRT/
+cpptools/getFoldingRanges: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp (id: 4)
+  Processing folder (recursive): C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.18362.0/SHARED/
+  Processing folder (recursive): C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.18362.0/UCRT/
+  Processing folder (recursive): C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.18362.0/UM/
+cpptools/getCodeActions: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp (id: 5)
+  Processing folder (recursive): C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.18362.0/WINRT/
+cpptools/getSemanticTokens: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp (id: 6)
+  Processing folder (recursive): C:/USERS/AKRUCK/DOCUMENTS/CODE/BUG-REPORTS/VSCODE-CPP-BUG-REPORT-1/
+  Discovering files: 4832 file(s) processed
+  0 file(s) removed from database
+Done discovering files.
+Populating include completion cache.
+Parsing remaining files...
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\string
+  tag parsing file: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\string_view.hpp
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\yvals_core.h
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xstring
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cctype
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\string_view
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\algorithm
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cassert
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\iterator
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\limits
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\ostream
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\stdexcept
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\type_traits
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\functional
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\vcruntime.h
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xkeycheck.h
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\iosfwd
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xmemory
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xpolymorphic_allocator.h
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\ctype.h
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\yvals.h
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\assert.h
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xutility
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cfloat
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\climits
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cwchar
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\intrin0.h
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\isa_availability.h
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xstddef
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\ios
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\exception
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cstdint
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\tuple
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\typeinfo
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\memory
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\unordered_map
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\compare
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\sal.h
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\vadefs.h
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cstdio
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cstring
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cstdlib
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\new
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xatomic.h
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\utility
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wctype.h
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\crtdbg.h
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\crtdefs.h
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\use_ansi.h
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\float.h
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\limits.h
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\wchar.h
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cstddef
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\initializer_list
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xtr1common
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xlocnum
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\malloc.h
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\vcruntime_exception.h
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\stdint.h
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\vcruntime_typeinfo.h
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\atomic
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xhash
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\bit
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\concepts
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\CodeAnalysis\sourceannotations.h
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\concurrencysal.h
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\math.h
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\vcruntime_new.h
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winapifamily.h
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\vcruntime_new_debug.h
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_memcpy_s.h
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wconio.h
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wdirect.h
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wio.h
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wprocess.h
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstdio.h
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstdlib.h
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstring.h
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wtime.h
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\sys\stat.h
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\sys\types.h
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\vcruntime_string.h
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stddef.h
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\streambuf
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_malloc.h
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\eh.h
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xatomic_wait.h
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xthreads.h
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\list
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\vector
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xbit_ops.h
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xnode_handle.h
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_memory.h
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_search.h
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winpackagefamily.h
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\errno.h
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_stdio_config.h
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_share.h
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xiosbase
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_terminate.h
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xtimec.h
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\share.h
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\system_error
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xlocale
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\ctime
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\__msvc_system_error_abi.hpp
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cerrno
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xcall_once.h
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xerrc.h
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xfacet
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xlocinfo
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xlocinfo.h
+  tag parsing file: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\clocale
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\locale.h
+sending compilation args for C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp
+  include: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2019\COMMUNITY\VC\TOOLS\MSVC\14.29.30037\INCLUDE
+  include: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2019\COMMUNITY\VC\TOOLS\MSVC\14.29.30037\ATLMFC\INCLUDE
+  include: C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.18362.0\UM
+  include: C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.18362.0\UCRT
+  include: C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.18362.0\SHARED
+  include: C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.18362.0\WINRT
+  include: C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.18362.0\CPPWINRT
+  define: _DEBUG
+  define: UNICODE
+  define: _UNICODE
+  other: --header_only_fallback
+  stdver: ms_c++14
+  intelliSenseMode: windows-msvc-x64
+Queueing IntelliSense update for files in translation unit of: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h
+  tag parsing file: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\concurrencysal.h
+  Parsing: 124 files(s) processed
+Done parsing remaining files.
+cpptools/finishUpdateSquiggles
+Error squiggle count: 0
+Update IntelliSense time (sec): 3.358
+cpptools/getFoldingRanges: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp (id: 7)
+cpptools/getCodeActions: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp (id: 8)
+cpptools/textEditorSelectionChange
+textDocument/hover: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp (id: 9)
+textDocument/documentHighlight: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp (id: 10)
+cpptools/textEditorSelectionChange
+cpptools/getCodeActions: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp (id: 11)
+textDocument/didChange: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp
+cpptools/textEditorSelectionChange
+textDocument/didChange: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp
+cpptools/textEditorSelectionChange
+cpptools/getFoldingRanges: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp (id: 12)
+cpptools/getDocumentSymbols: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp (id: 13)
+cpptools/getDocumentSymbols
+cpptools/getCodeActions: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp (id: 14)
+willSaveWaitUntil: 0ms
+textDocument/didSave: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp
+  tag parsing file: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp
+cpptools/fileChanged: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp
+cpptools/getCodeActions: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp (id: 16)
+cpptools/getSemanticTokens: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp (id: 17)
+Checking for syntax errors: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp
+Queueing IntelliSense update for files in translation unit of: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp
+sending 1 changes to server
+sending 1 changes to server
+cpptools/finishUpdateSquiggles
+Error squiggle count: 1
+Update IntelliSense time (sec): 2.332
+idle loop: reparsing the active document
+Checking for syntax errors: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp
+Queueing IntelliSense update for files in translation unit of: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp
+cpptools/getFoldingRanges: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp (id: 18)
+cpptools/getCodeActions: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp (id: 19)
+cpptools/finishUpdateSquiggles
+Update IntelliSense time (sec): 0.746
+textDocument/hover: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp (id: 20)
+IntelliSense process crash detected.
+IntelliSense engine is not responding. Using the Tag Parser instead.
+using Tag Parser for quick info
+IntelliSense process crash detected.
+Checking for syntax errors: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp
+Update IntelliSense time (sec): 0
+cpptools/getCodeActions: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp (id: 21)
+textDocument/hover: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp (id: 22)
+Resetting IntelliSense server: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp
+sending compilation args for C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp
+  include: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2019\COMMUNITY\VC\TOOLS\MSVC\14.29.30037\INCLUDE
+  include: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2019\COMMUNITY\VC\TOOLS\MSVC\14.29.30037\ATLMFC\INCLUDE
+  include: C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.18362.0\UM
+  include: C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.18362.0\UCRT
+  include: C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.18362.0\SHARED
+  include: C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.18362.0\WINRT
+  include: C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.18362.0\CPPWINRT
+  define: _DEBUG
+  define: UNICODE
+  define: _UNICODE
+  other: --header_only_fallback
+  stdver: ms_c++14
+  intelliSenseMode: windows-msvc-x64
+IntelliSense engine is not responding. Using the Tag Parser instead.
+using Tag Parser for quick info
+IntelliSense process crash detected.
+IntelliSense engine is not responding. Using the Tag Parser instead.
+IntelliSense process crash detected.
+Checking for syntax errors: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp
+Update IntelliSense time (sec): 0.001
+textDocument/didChange: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp
+cpptools/textEditorSelectionChange
+cpptools/getFoldingRanges: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp (id: 23)
+textDocument/didChange: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp
+cpptools/textEditorSelectionChange
+cpptools/getFoldingRanges: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp (id: 24)
+cpptools/getCodeActions: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp (id: 25)
+willSaveWaitUntil: 0ms
+textDocument/didSave: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp
+  tag parsing file: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp
+cpptools/fileChanged: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp
+cpptools/getDocumentSymbols: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp (id: 27)
+cpptools/getDocumentSymbols
+cpptools/getCodeActions: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp (id: 28)
+cpptools/getSemanticTokens: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp (id: 29)
+idle loop: reparsing the active document
+Checking for syntax errors: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp
+Checking for syntax errors: C:\Users\akruck\Documents\code\bug-reports\vscode-cpp-bug-report-1\trigger.hpp
+Update IntelliSense time (sec): 2.42
